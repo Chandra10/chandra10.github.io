@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#gallery {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+.progress {
+  margin-top: -1rem;
+}
+
+#latar {
+  text-align: justify;
+}
